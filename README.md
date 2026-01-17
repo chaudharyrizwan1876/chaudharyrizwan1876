@@ -5,7 +5,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
-  Passionate Full Stack Developer capable of building complete web applications
+  Passionate Full Stack Developer capable of building complete web applications  
   using both frontend and backend technologies
 </p>
 
@@ -19,8 +19,33 @@
 ---
 
 ## 🛠️ Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,postgresql,git,github" />
+
+### 🔹 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### 🔹 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### 🔹 Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🔹 Tools & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -32,7 +57,7 @@
     <td width="50%">
       <h3 align="center">🛒 Web Store</h3>
       <p align="center">
-        <a href="https://github.com/chaudharyrizwan1876/web-store" target="_blank">
+        <a href="https://github.com/chaudharyrizwan1876/web-store">
           <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
         </a>
       </p>
@@ -43,12 +68,12 @@
     <td width="50%">
       <h3 align="center">🌐 Nexus Website</h3>
       <p align="center">
-        <a href="https://github.com/chaudharyrizwan1876/Nexus" target="_blank">
+        <a href="https://github.com/chaudharyrizwan1876/Nexus">
           <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
         </a>
       </p>
       <p align="center">
-        Business website built with clean layout and responsive structure
+        Business website with clean layout and responsive structure
       </p>
     </td>
   </tr>
