@@ -13,7 +13,7 @@
 
 ## 🙋‍♂️ About Me
 - 💻 **Full Stack Developer (MERN)**  
-- 🌱 Currently learning **Node.js & Express.js**  
+- 🌱 Currently learning **Advanced Backend & Scalable Systems**  
 - 🎯 Goal: **Become a professional MERN Stack Developer**
 
 ---
@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
@@ -34,6 +36,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
 ### 🔹 Databases
@@ -46,6 +49,7 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-Pipelines-blue?style=for-the-badge"/>
 </p>
 
 ---
@@ -66,14 +70,39 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Nexus Website</h3>
+      <h3 align="center">🤖 AI Email Frontend</h3>
       <p align="center">
-        <a href="https://github.com/chaudharyrizwan1876/Nexus">
+        <a href="https://github.com/chaudharyrizwan1876/ai-email-frontend">
           <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
         </a>
       </p>
       <p align="center">
-        Business website with clean layout and responsive structure
+        AI-powered email interface with modern UI
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚙️ AI Email Backend</h3>
+      <p align="center">
+        <a href="https://github.com/chaudharyrizwan1876/ai-email-backend">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center">
+        Backend APIs for AI email processing and automation
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 UniJump Frontend</h3>
+      <p align="center">
+        <a href="https://github.com/chaudharyrizwan1876/unijump-front">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p align="center">
+        Education platform frontend with responsive design
       </p>
     </td>
   </tr>
@@ -84,6 +113,14 @@
     <img src="https://img.shields.io/badge/View%20All%20Repositories-Click%20Here-blue?style=for-the-badge" />
   </a>
 </p>
+
+---
+
+## 🚀 Live Projects
+
+- 🌐 https://www.unijump.es/  
+- 🤖 https://new.joaomiranda.com/ai-support  
+- 🛒 https://rizwansshoppingstore.netlify.app/  
 
 ---
 
@@ -98,14 +135,9 @@
 
 ---
 
-## 🌍 Portfolio
-🚀 Live Portfolio Website:  
-👉 https://chaudharyrizwan1876.github.io/portfolio  
-
----
-
 ## 📫 Contact
 - 💼 GitHub: https://github.com/chaudharyrizwan1876  
+- 💼 LinkedIn: https://www.linkedin.com/in/rizwan-chaudhary4477  
 - 📧 Email: **Rizwanchaudhary4477@gmail.com**
 
 ⭐ Thanks for visiting my profile!
