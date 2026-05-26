@@ -14,7 +14,7 @@
 ## 🙋‍♂️ About Me
 - 💻 **Full Stack Developer (MERN)**  
 - 🌱 Currently learning **Advanced Backend & Scalable Systems**  
-- 🎯 Goal: **Become a professional MERN Stack Developer**
+- 🎯 Goal: **Become a professional Full Stack Developer**
 
 ---
 
