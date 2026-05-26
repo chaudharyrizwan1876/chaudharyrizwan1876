@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=220&section=header&text=Rizwan%20Chaudhary&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20MERN%20Developer&descAlignY=65&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=220&section=header&text=Muhammad%20Rizwan&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20MERN%20Developer&descAlignY=65&descSize=18" />
 </p>
 
 <h3 align="center">Full Stack Web Developer</h3>
