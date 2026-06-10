@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=220&section=header&text=Muhammad%20Rizwan&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20MERN%20Developer&descAlignY=65&descSize=18" />
 </p>
 
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   Passionate Full Stack Developer capable of building complete web applications  
@@ -12,7 +12,7 @@
 ---
 
 ## 🙋‍♂️ About Me
-- 💻 **Full Stack Developer (MERN)**  
+- 💻 **Full Stack Developer**  
 - 🌱 Currently learning **Advanced Backend & Scalable Systems**  
 - 🎯 Goal: **Become a professional Full Stack Developer**
 
@@ -95,7 +95,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎓 UniJump Frontend</h3>
+      <h3 align="center">🎓 UniJump</h3>
       <p align="center">
         <a href="https://github.com/chaudharyrizwan1876/unijump-front">
           <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
@@ -120,7 +120,8 @@
 
 - 🌐 https://www.unijump.es/  
 - 🤖 https://new.joaomiranda.com/ai-support  
-- 🛒 https://rizwansshoppingstore.netlify.app/  
+- 🛒 https://rizwansshoppingstore.netlify.app/
+- 
 
 ---
 
