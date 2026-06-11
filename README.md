@@ -1,39 +1,62 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=220&section=header&text=Muhammad%20Rizwan&fontSize=42&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=65&descSize=18" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Rizwan&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=70&descSize=20" />
+</div>
 
-<h3 align="center">Full Stack Developer</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rizwan-chaudhary4477">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:Rizwanchaudhary4477@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/chaudharyrizwan1876">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=chaudharyrizwan1876&style=for-the-badge&color=0e75b6&label=Profile+Views"/>
+</div>
 
-<p align="center">
-  Passionate Full Stack Developer capable of building complete web and desktop applications  
-  using both frontend and backend technologies
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+C%23+%7C+WPF+Desktop+Apps;AI+%26+ML+Integration+Enthusiast;Building+Real-World+Production+Apps" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🙋‍♂️ About Me
-- 💻 **Full Stack Developer**  
-- 🌱 Currently learning **Advanced Backend & Scalable AI Systems**  
-- 🎯 Goal: **Become a professional Full Stack AI Engineer**
+## 👨‍💻 About Me
+
+```javascript
+const rizwan = {
+  role        : "Full Stack Developer",
+  location    : "Pakistan 🇵🇰",
+  languages   : ["JavaScript", "TypeScript", "C#"],
+  frontend    : ["React.js", "Next.js", "XAML", "Tailwind CSS"],
+  backend     : ["Node.js", "Express.js", "NestJS", "C# / WPF"],
+  databases   : ["MongoDB", "PostgreSQL", "SQLite", "SQL"],
+  ai_ml       : ["ML.NET", "OpenAI API"],
+  goal        : "Become a professional Full Stack AI Engineer",
+  available   : true
+};
+```
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 🔹 Frontend
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAML-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-### 🔹 Backend
+### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -41,7 +64,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
-### 🔹 Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -49,11 +72,20 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🔹 Tools & Version Control
+### AI / ML
+<p>
+  <img src="https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-Pipelines-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
@@ -62,107 +94,134 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🛒 Web Store</h3>
-      <p align="center">
-        <a href="https://github.com/chaudharyrizwan1876/web-store">
-          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p align="center">
-        E-commerce frontend project with modern UI and responsive design
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 AI Email Frontend</h3>
-      <p align="center">
-        <a href="https://github.com/chaudharyrizwan1876/ai-email-frontend">
-          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p align="center">
-        AI-powered email interface with modern UI
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚙️ AI Email Backend</h3>
-      <p align="center">
-        <a href="https://github.com/chaudharyrizwan1876/ai-email-backend">
-          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p align="center">
-        Backend APIs for AI email processing and automation
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎓 UniJump</h3>
-      <p align="center">
-        <a href="https://github.com/chaudharyrizwan1876/unijump-front">
-          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p align="center">
-        Education platform frontend with responsive design
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">☕ Cafe Management System</h3>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/chaudharyrizwan1876/HospitalCafeLedger">
-          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
         </a>
         &nbsp;
         <a href="https://github.com/chaudharyrizwan1876/HospitalCafeLedger/releases/latest/download/HospitalCafeLedger.App.exe">
-          <img src="https://img.shields.io/badge/Download%20.exe-blue?style=for-the-badge&logo=windows" />
+          <img src="https://img.shields.io/badge/Download%20.exe-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
         </a>
+      </div>
+      <br/>
+      <p align="center">
+        Full-stack desktop application for hospital cafe management. Built with <b>C#, WPF, SQLite</b> and <b>ML.NET</b> for AI-powered sales forecasting, balance warnings, and peak hour analysis. Runs fully offline — no installation required.
       </p>
       <p align="center">
-        Full-stack desktop application for hospital cafe management with AI-powered insights, built using C#, WPF, and SQLite
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 E-Commerce Platform</h3>
+      <div align="center">
+        <a href="https://github.com/chaudharyrizwan1876/web-store">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
+        </a>
+        &nbsp;
+        <a href="https://rizwansshoppingstore.netlify.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        Full-stack e-commerce platform with JWT authentication, product and order management, Stripe payment integration, and Cloudinary image handling.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Email Support Tool</h3>
+      <div align="center">
+        <a href="https://github.com/chaudharyrizwan1876/ai-email-frontend">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
+        </a>
+        &nbsp;
+        <a href="https://new.joaomiranda.com/ai-support">
+          <img src="https://img.shields.io/badge/Live%20Demo-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        AI-powered email support system with IMAP integration, OpenAI-generated replies, SMTP sending, and role-based authentication for Admin and Employee.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 UniJump</h3>
+      <div align="center">
+        <a href="https://github.com/chaudharyrizwan1876/unijump-front">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
+        </a>
+        &nbsp;
+        <a href="https://www.unijump.es/">
+          <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        Education platform connecting students with universities. Modern UI with responsive design and seamless user experience.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/chaudharyrizwan1876?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-Click%20Here-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/View%20All%20Projects-Click%20Here-blue?style=for-the-badge"/>
   </a>
-</p>
-
----
-
-## 🚀 Live Projects
-
-- 🌐 https://www.unijump.es/  
-- 🤖 https://new.joaomiranda.com/ai-support  
-- 🛒 https://rizwansshoppingstore.netlify.app/
-- 🖥️ https://github.com/chaudharyrizwan1876/HospitalCafeLedger/releases/latest/download/HospitalCafeLedger.App.exe
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaudharyrizwan1876&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharyrizwan1876&theme=tokyonight" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaudharyrizwan1876&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharyrizwan1876&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharyrizwan1876&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
-## 📫 Contact
-- 💼 GitHub: https://github.com/chaudharyrizwan1876  
-- 💼 LinkedIn: https://www.linkedin.com/in/rizwan-chaudhary4477  
-- 📧 Email: **Rizwanchaudhary4477@gmail.com**
+## 📫 Let's Connect
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+  <a href="https://www.linkedin.com/in/rizwan-chaudhary4477">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:Rizwanchaudhary4477@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</div>
