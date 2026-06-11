@@ -25,19 +25,38 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const rizwan = {
-  role        : "Full Stack Developer",
-  location    : "Pakistan 🇵🇰",
-  languages   : ["JavaScript", "TypeScript", "C#"],
-  frontend    : ["React.js", "Next.js", "XAML", "Tailwind CSS"],
-  backend     : ["Node.js", "Express.js", "NestJS", "C# / WPF"],
-  databases   : ["MongoDB", "PostgreSQL", "SQLite", "SQL"],
-  ai_ml       : ["ML.NET", "OpenAI API"],
-  goal        : "Become a professional Full Stack AI Engineer",
-  available   : true
-};
-```
+<table>
+  <tr>
+    <td>🧑‍💼</td>
+    <td><b>Role</b></td>
+    <td>Full Stack Developer</td>
+  </tr>
+  <tr>
+    <td>📍</td>
+    <td><b>Location</b></td>
+    <td>Pakistan 🇵🇰</td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td><b>Languages</b></td>
+    <td>JavaScript &nbsp; TypeScript &nbsp; C#</td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td><b>Goal</b></td>
+    <td>Become a professional Full Stack AI Engineer</td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td><b>Available</b></td>
+    <td><img src="https://img.shields.io/badge/Open%20to%20Work-✅%20Yes-2ea44f?style=flat-square"/></td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><b>Currently Learning</b></td>
+    <td>Advanced Backend &amp; Scalable Systems</td>
+  </tr>
+</table>
 
 ---
 
