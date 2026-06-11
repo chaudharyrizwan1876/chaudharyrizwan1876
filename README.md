@@ -5,7 +5,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  Passionate Full Stack Developer capable of building complete web applications  
+  Passionate Full Stack Developer capable of building complete web and desktop applications  
   using both frontend and backend technologies
 </p>
 
@@ -13,8 +13,8 @@
 
 ## 🙋‍♂️ About Me
 - 💻 **Full Stack Developer**  
-- 🌱 Currently learning **Advanced Backend & Scalable Systems**  
-- 🎯 Goal: **Become a professional Full Stack Developer**
+- 🌱 Currently learning **Advanced Backend & Scalable AI Systems**  
+- 🎯 Goal: **Become a professional Full Stack AI Engineer**
 
 ---
 
@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAML-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ### 🔹 Backend
@@ -37,12 +38,15 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
 ### 🔹 Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ### 🔹 Tools & Version Control
@@ -106,6 +110,26 @@
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">☕ Cafe Management System</h3>
+      <p align="center">
+        <a href="https://github.com/chaudharyrizwan1876/HospitalCafeLedger">
+          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/chaudharyrizwan1876/HospitalCafeLedger/releases/latest/download/HospitalCafeLedger.App.exe">
+          <img src="https://img.shields.io/badge/Download%20.exe-blue?style=for-the-badge&logo=windows" />
+        </a>
+      </p>
+      <p align="center">
+        Full-stack desktop application for hospital cafe management with AI-powered insights, built using C#, WPF, and SQLite
+      </p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
 </table>
 
 <p align="center">
@@ -121,7 +145,7 @@
 - 🌐 https://www.unijump.es/  
 - 🤖 https://new.joaomiranda.com/ai-support  
 - 🛒 https://rizwansshoppingstore.netlify.app/
-- 
+- 🖥️ https://github.com/chaudharyrizwan1876/HospitalCafeLedger/releases/latest/download/HospitalCafeLedger.App.exe
 
 ---
 
