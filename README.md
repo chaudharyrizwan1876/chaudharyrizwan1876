@@ -108,102 +108,242 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">☕ Cafe Management System</h3>
-      <div align="center">
-        <a href="https://github.com/chaudharyrizwan1876/HospitalCafeLedger">
-          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/chaudharyrizwan1876/HospitalCafeLedger/releases/latest/download/HospitalCafeLedger.App.exe">
-          <img src="https://img.shields.io/badge/Download%20.exe-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        Full-stack desktop application for hospital cafe management. Built with <b>C#, WPF, SQLite</b> and <b>ML.NET</b> for AI-powered sales forecasting, balance warnings, and peak hour analysis. Runs fully offline — no installation required.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 E-Commerce Platform</h3>
-      <div align="center">
-        <a href="https://github.com/chaudharyrizwan1876/web-store">
-          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
-        </a>
-        &nbsp;
-        <a href="https://rizwansshoppingstore.netlify.app/">
-          <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        Full-stack e-commerce platform with JWT authentication, product and order management, Stripe payment integration, and Cloudinary image handling.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Email Support Tool</h3>
-      <div align="center">
-        <a href="https://github.com/chaudharyrizwan1876/ai-email-frontend">
-          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
-        </a>
-        &nbsp;
-        <a href="https://new.joaomiranda.com/ai-support">
-          <img src="https://img.shields.io/badge/Live%20Demo-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        AI-powered email support system with IMAP integration, OpenAI-generated replies, SMTP sending, and role-based authentication for Admin and Employee.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 UniJump</h3>
-      <div align="center">
-        <a href="https://github.com/chaudharyrizwan1876/unijump-front">
-          <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
-        </a>
-        &nbsp;
-        <a href="https://www.unijump.es/">
-          <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        Education platform connecting students with universities. Modern UI with responsive design and seamless user experience.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🏢 HR & Payroll Management System</h3>
+
+<div align="center">
+
+<a href="https://github.com/chaudharyrizwan1876/HR-Payroll-Management-System">
+<img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/chaudharyrizwan1876/HR-Payroll-Management-System/releases/latest">
+<img src="https://img.shields.io/badge/Download-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<p align="center">
+
+Enterprise-grade HR & Payroll Management System built with <b>C#, WPF, SQLite</b>, <b>Entity Framework Core</b> and <b>ML.NET</b>. Features payroll automation, attendance, recruitment, leave management, performance appraisal, reporting and AI-powered analytics.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☕ Hospital Cafe Ledger</h3>
+
+<div align="center">
+
+<a href="https://github.com/chaudharyrizwan1876/HospitalCafeLedger">
+<img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/chaudharyrizwan1876/HospitalCafeLedger/releases/latest">
+<img src="https://img.shields.io/badge/Download-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<p align="center">
+
+Enterprise desktop application for hospital cafe operations featuring billing, inventory, doctor ledger management, reports, SQLite integration and ML.NET powered sales forecasting.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WPF-0078D7?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 E-Commerce Platform</h3>
+
+<div align="center">
+
+<a href="https://github.com/chaudharyrizwan1876/web-store">
+<img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+&nbsp;
+
+<a href="https://rizwansshoppingstore.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<p align="center">
+
+Modern full-stack e-commerce platform with JWT authentication, Stripe payments, Cloudinary integration, order management and responsive UI.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 AI Email Support Tool</h3>
+
+<div align="center">
+
+<a href="https://github.com/chaudharyrizwan1876/ai-email-frontend">
+<img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+&nbsp;
+
+<a href="https://new.joaomiranda.com/ai-support">
+<img src="https://img.shields.io/badge/Live%20Demo-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<p align="center">
+
+AI-powered customer support platform with IMAP integration, OpenAI generated responses, SMTP email sending and role-based authentication.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🐾 Furr & Feathers</h3>
+
+<div align="center">
+
+<a href="https://github.com/chaudharyrizwan1876/furr-and-feather">
+<img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+&nbsp;
+
+<a href="#">
+<img src="https://img.shields.io/badge/Coming%20Soon-8A2BE2?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br/>
+
+<p align="center">
+
+Premium pet store platform developed with Next.js featuring responsive UI, product catalog, authentication and modern e-commerce experience.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 UniJump</h3>
+
+<div align="center">
+
+<a href="https://github.com/chaudharyrizwan1876/unijump-front">
+<img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.unijump.es/">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<p align="center">
+
+International education platform connecting students with universities through a modern Next.js application and responsive user experience.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
 <div align="center">
