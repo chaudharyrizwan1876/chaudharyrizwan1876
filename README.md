@@ -271,41 +271,32 @@ AI-powered customer support platform with IMAP integration, OpenAI generated res
 <tr>
 
 <td width="50%" valign="top">
-
 <h3 align="center">🐾 Furr & Feathers</h3>
-
 <div align="center">
-
 <a href="https://github.com/chaudharyrizwan1876/furr-and-feather">
 <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
 </a>
-
 &nbsp;
-
-<a href="#">
-<img src="https://img.shields.io/badge/Coming%20Soon-8A2BE2?style=for-the-badge"/>
+<a href="https://www.furrandfeathers.com">
+<img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 </div>
-
 <br/>
-
 <p align="center">
-
-Premium pet store platform developed with Next.js featuring responsive UI, product catalog, authentication and modern e-commerce experience.
-
+Full-stack veterinary e-commerce platform built with Next.js — complete with product catalog, cart & checkout, order tracking, customer reviews, blog with admin CMS, and a full admin dashboard for managing products, orders, payments, and inventory.
 </p>
-
 <p align="center">
-
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
-
 </td>
-
 <td width="50%" valign="top">
 
 <h3 align="center">🎓 UniJump</h3>
