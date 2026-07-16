@@ -276,8 +276,8 @@ AI-powered customer support platform with IMAP integration, OpenAI generated res
 <a href="https://github.com/chaudharyrizwan1876/furr-and-feather">
 <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
 </a> 
-<br>
 &nbsp;
+  
 <a href="https://www.furrandfeathers.com">
 <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
