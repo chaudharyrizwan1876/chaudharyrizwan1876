@@ -275,7 +275,8 @@ AI-powered customer support platform with IMAP integration, OpenAI generated res
 <div align="center">
 <a href="https://github.com/chaudharyrizwan1876/furr-and-feather">
 <img src="https://img.shields.io/badge/View%20Repo-GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+</a> 
+<br>
 &nbsp;
 <a href="https://www.furrandfeathers.com">
 <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -283,11 +284,10 @@ AI-powered customer support platform with IMAP integration, OpenAI generated res
 </div>
 <br/>
 <p align="center">
-Full-stack veterinary e-commerce platform built with Next.js — complete with product catalog, cart & checkout, order tracking, customer reviews, blog with admin CMS, and a full admin dashboard for managing products, orders, payments, and inventory.
+Full-stack veterinary e-commerce platform built with Next.js, complete with product catalog, cart & checkout, order tracking, customer reviews, blog with admin CMS, and a full admin dashboard for managing products, orders, payments, and inventory.
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
