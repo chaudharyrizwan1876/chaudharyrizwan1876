@@ -25,36 +25,63 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table align="center">
   <tr>
-    <td>🧑‍💼</td>
+    <td align="center" width="50">
+      <img src="https://img.icons8.com/fluency/48/developer.png" width="28"/>
+    </td>
     <td><b>Role</b></td>
-    <td>Full Stack Developer</td>
+    <td>
+      <img src="https://img.shields.io/badge/Full%20Stack-Developer-007ACC?style=flat-square"/>
+    </td>
   </tr>
   <tr>
-    <td>📍</td>
+    <td align="center">
+      🌍
+    </td>
     <td><b>Location</b></td>
     <td>Pakistan 🇵🇰</td>
   </tr>
   <tr>
-    <td>💬</td>
+    <td align="center">
+      💻
+    </td>
     <td><b>Languages</b></td>
-    <td>JavaScript &nbsp; TypeScript &nbsp; C#</td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+    </td>
   </tr>
   <tr>
-    <td>🎯</td>
-    <td><b>Goal</b></td>
-    <td>Become a professional Full Stack AI Engineer</td>
+    <td align="center">
+      🎯
+    </td>
+    <td><b>Career Goal</b></td>
+    <td>Full Stack AI Engineer</td>
   </tr>
   <tr>
-    <td>🤝</td>
-    <td><b>Available</b></td>
-    <td><img src="https://img.shields.io/badge/Open%20to%20Work-✅%20Yes-2ea44f?style=flat-square"/></td>
+    <td align="center">
+      🤝
+    </td>
+    <td><b>Availability</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Open%20to%20Work-Available-2ea44f?style=flat-square"/>
+    </td>
   </tr>
   <tr>
-    <td>🌱</td>
+    <td align="center">
+      🚀
+    </td>
     <td><b>Currently Learning</b></td>
-    <td>Advanced Backend &amp; Scalable Systems</td>
+    <td>Advanced Backend & Scalable Systems</td>
+  </tr>
+  <tr>
+    <td align="center">
+      🤖
+    </td>
+    <td><b>Focus Area</b></td>
+    <td>AI Integration & Intelligent Applications</td>
   </tr>
 </table>
 
