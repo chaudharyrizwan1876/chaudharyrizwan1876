@@ -92,9 +92,11 @@
 </p>
 
 ### AI / ML Integration
+### AI / ML Integration
 <p>
   <img src="https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </p>
 
 ### Tools
