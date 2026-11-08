@@ -27,9 +27,9 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50">
-      <img src="https://img.icons8.com/fluency/48/developer.png" width="28"/>
-    </td>
+  <td align="center" width="50">
+  👨‍💻
+</td>
     <td><b>Role</b></td>
     <td>
       <img src="https://img.shields.io/badge/Full%20Stack-Developer-007ACC?style=flat-square"/>
